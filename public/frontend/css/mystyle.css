@@ -1,0 +1,41 @@
+.book-information hk {
+  color: #363432;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+
+}
+
+.book-information {
+  border: 1px solid #F7F7F0;
+  overflow: hidden;
+  padding-bottom: 60px;
+  padding-left: 30px;
+  position: relative;
+}
+
+.book-information span span {
+  color: #FE980F;
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+p {  font-size: 17px;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.price-k{
+   color: #00adee;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 700;
+}
