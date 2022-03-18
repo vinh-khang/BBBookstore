@@ -1,6 +1,7 @@
 # BBBookstore
 
 1. TỔNG QUAN
+
 “Cửa hàng sách trực tuyến Book&Books” là một website thương mại điện tử 
 với mục đích cung cấp những tiện ích nhằm hỗ trợ khách hàng tìm kiếm và đặt mua 
 sách. Bên cạnh đó, người quản lý cửa hàng cũng có thể quản lý và theo dõi việc kinh 
@@ -18,6 +19,7 @@ quan trọng nhất là tiến hành thanh toán.
 cũng như thực hiện các tương tác với cơ sở dữ liệu.
 
 2. CÁC CHỨC NĂNG CỦA HỆ THỐNG
+
 Hệ thống bao gồm các chức năng chính như sau:
 - Khách hàng: 
 ▪ Đăng ký
